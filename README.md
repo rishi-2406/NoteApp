@@ -3,8 +3,8 @@
 A modern, full-stack note-taking web app built with the **MERN** stack (MongoDB, Express, React, Node.js), styled using **Tailwind CSS** and **DaisyUI**.  
 Create, edit, and delete notes with a beautiful, responsive UI and robust backend.  
 **Deployed on:**  
-- **Frontend:** GitHub Pages  
-- **Backend:** Render (free plan, may take a few seconds to wake up)
+
+- **Frontend + Backend:** Render (free plan, may take a few seconds to wake up)
 
 ---
 
