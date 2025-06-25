@@ -1,0 +1,23 @@
+{
+  "name": "mernthinkboard",
+  "version": "1.0.0",
+  "description": "MERN Stack Note Making Application",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
+    "start" : "npm run start --prefix Backend"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishi-2406/NoteApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishi-2406/NoteApp/issues"
+  },
+  "homepage": "https://github.com/rishi-2406/NoteApp#readme"
+}
+  
